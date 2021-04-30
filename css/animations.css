@@ -1,0 +1,111 @@
+/* 
+ * credit: https://bluehamham.com/
+ */
+
+@-webkit-keyframes noise1 {
+  0% {
+    -webkit-transform: translate3d(-2px, 2px, 0);
+    transform: translate3d(-2px, 2px, 0);
+  }
+
+  25% {
+    -webkit-transform: translate3d(-2px, -2px, 0);
+    transform: translate3d(-2px, -2px, 0);
+  }
+
+  50% {
+    -webkit-transform: translate3d(2px, 2px, 0);
+    transform: translate3d(2px, 2px, 0);
+  }
+
+  75% {
+    -webkit-transform: translate3d(2px, -2px, 0);
+    transform: translate3d(2px, -2px, 0);
+  }
+
+  to {
+    -webkit-transform: translate3d(-2px, 2px, 0);
+    transform: translate3d(-2px, 2px, 0);
+  }
+}
+
+@keyframes noise1 {
+  0% {
+    -webkit-transform: translate3d(-2px, 2px, 0);
+    transform: translate3d(-2px, 2px, 0);
+  }
+
+  25% {
+    -webkit-transform: translate3d(-2px, -2px, 0);
+    transform: translate3d(-2px, -2px, 0);
+  }
+
+  50% {
+    -webkit-transform: translate3d(2px, 2px, 0);
+    transform: translate3d(2px, 2px, 0);
+  }
+
+  75% {
+    -webkit-transform: translate3d(2px, -2px, 0);
+    transform: translate3d(2px, -2px, 0);
+  }
+
+  to {
+    -webkit-transform: translate3d(-2px, 2px, 0);
+    transform: translate3d(-2px, 2px, 0);
+  }
+}
+
+@-webkit-keyframes noise2 {
+  0% {
+    -webkit-transform: translate3d(-2px, -2px, 0);
+    transform: translate3d(-2px, -2px, 0);
+  }
+
+  25% {
+    -webkit-transform: translate3d(2px, 2px, 0);
+    transform: translate3d(2px, 2px, 0);
+  }
+
+  50% {
+    -webkit-transform: translate3d(2px, -2px, 0);
+    transform: translate3d(2px, -2px, 0);
+  }
+
+  75% {
+    -webkit-transform: translate3d(-2px, 2px, 0);
+    transform: translate3d(-2px, 2px, 0);
+  }
+
+  to {
+    -webkit-transform: translate3d(-2px, 2px, 0);
+    transform: translate3d(-2px, 2px, 0);
+  }
+}
+
+@keyframes noise2 {
+  0% {
+    -webkit-transform: translate3d(-2px, -2px, 0);
+    transform: translate3d(-2px, -2px, 0);
+  }
+
+  25% {
+    -webkit-transform: translate3d(2px, 2px, 0);
+    transform: translate3d(2px, 2px, 0);
+  }
+
+  50% {
+    -webkit-transform: translate3d(2px, -2px, 0);
+    transform: translate3d(2px, -2px, 0);
+  }
+
+  75% {
+    -webkit-transform: translate3d(-2px, 2px, 0);
+    transform: translate3d(-2px, 2px, 0);
+  }
+
+  to {
+    -webkit-transform: translate3d(-2px, 2px, 0);
+    transform: translate3d(-2px, 2px, 0);
+  }
+}

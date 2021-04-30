@@ -1,0 +1,43 @@
+@import "../css/cursor.css";
+
+/* Hover Effect */
+@import "../css/typographies.css";
+@import "../css/animations.css";
+@import "../css/buttons.css";
+
+html,
+body {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+}
+
+/* Demo Block */
+.target__wrapper {
+  height: 100%;
+  padding: 0;
+  margin: 0;
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.target__block--blueneon {
+  width: 200px;
+  height: 200px;
+  background-color: #4d4dff;
+  /*background-color: #39ff14;*/
+  margin: auto;
+}
+
+.target__link {
+  display: block;
+  margin-top: 15px;
+}

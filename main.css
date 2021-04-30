@@ -1,0 +1,38 @@
+@import "css/typographies.css";
+@import "css/animations.css";
+@import "css/buttons.css";
+@import "css/cursor.css";
+
+html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 30px 0 0 30px;
+}
+
+h1 {
+  color: #fff;
+  font-family: "Teko", sans-serif;
+  font-weight: 300;
+  font-size: 45px;
+  letter-spacing: 3px;
+  line-height: 1;
+  margin: 0;
+  text-decoration: underline;
+  text-decoration-color: #4d4dff;
+}
+
+ul {
+  padding: 0;
+}
+
+li {
+  display: block;
+  margin-top: 15px;
+}
+
+.a__txt {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 300;
+  font-size: 20px;
+}
